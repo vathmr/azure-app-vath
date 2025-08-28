@@ -1,0 +1,7 @@
+C:\Users\vathmr\azure-app-vath\publish\azure-app-vath.exe
+C:\Users\vathmr\azure-app-vath\publish\appsettings.Development.json
+C:\Users\vathmr\azure-app-vath\publish\appsettings.json
+C:\Users\vathmr\azure-app-vath\publish\azure-app-vath.dll
+C:\Users\vathmr\azure-app-vath\publish\azure-app-vath.deps.json
+C:\Users\vathmr\azure-app-vath\publish\azure-app-vath.runtimeconfig.json
+C:\Users\vathmr\azure-app-vath\publish\azure-app-vath.pdb

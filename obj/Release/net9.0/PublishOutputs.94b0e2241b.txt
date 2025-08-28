@@ -1,0 +1,13 @@
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\azure-app-vath.exe
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\publish\web.config
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\appsettings.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\publish\appsettings.Development.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\publish\appsettings.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\publish\azure-app-vath.deps.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\publish\azure-app-vath.runtimeconfig.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\publish\azure-app-vath.staticwebassets.endpoints.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\azure-app-vath.dll
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\azure-app-vath.deps.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\azure-app-vath.runtimeconfig.json
+C:\Users\vathmr\azure-app-vath\bin\Release\net9.0\publish\azure-app-vath.pdb
