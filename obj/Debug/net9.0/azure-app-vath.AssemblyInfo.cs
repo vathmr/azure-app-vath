@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-vath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aad8fc5ee0edc39351728939fd7fd14c7d008e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-vath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-vath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
