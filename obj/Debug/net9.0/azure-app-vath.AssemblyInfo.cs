@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("41e8831d-43bf-4832-8a3c-0fe397cb7bf0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-vath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aad8fc5ee0edc39351728939fd7fd14c7d008e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3a6cdccada8dd15729d4ecde4b333f33a11c486")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-vath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-vath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
